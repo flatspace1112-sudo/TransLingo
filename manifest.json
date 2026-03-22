@@ -1,0 +1,19 @@
+{
+  "name": "TransLingo",
+  "short_name": "TransLingo",
+  "description": "英語⇄日本語 翻訳＋単語帳アプリ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#8b3a3a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-translingo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "."
+}
